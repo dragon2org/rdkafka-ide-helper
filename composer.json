@@ -1,0 +1,18 @@
+{
+    "name": "sjje/rdkafka-ide-helper",
+    "description": "Rdkafka IDE Helper, to improve auto-completion",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["rdkafka", "autocomplete", "ide", "helper", "phpstorm", "netbeans", "sublime", "codeintel", "phpdoc"],
+    "authors": [
+        {
+            "name": "sjje",
+            "email": "377304925@qq.com"
+        }
+    ],
+    "autoload-dev": {
+        "psr-4": {
+            "Rdkafka\\": "src"
+        }
+    }
+}
