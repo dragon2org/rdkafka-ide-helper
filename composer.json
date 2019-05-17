@@ -12,7 +12,7 @@
     ],
     "autoload-dev": {
         "psr-4": {
-            "Rdkafka\\": "src"
+            "RdKafka\\": "src"
         }
     }
 }
